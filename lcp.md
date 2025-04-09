@@ -1,12 +1,3 @@
----
-
-```markdown
-# 🚀 Largest Contentful Paint (LCP) – Web Vitals Performance
-
-This section explains everything about **Largest Contentful Paint (LCP)** — one of the most important Core Web Vitals metrics. LCP measures how fast the main visible content of a page loads and directly impacts perceived loading speed.
-
----
-
 ## 📌 What is LCP?
 
 LCP (Largest Contentful Paint) measures the render time of the **largest visible content element** on the page — usually an image or heading — from when the page starts loading. It helps gauge how quickly users can see and interact with meaningful content.
