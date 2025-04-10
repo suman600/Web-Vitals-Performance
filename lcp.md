@@ -111,7 +111,6 @@ LCP (Largest Contentful Paint) measures the render time of the **largest visible
 | **Backgrounds**   | Preload background images or replace with `<img>`                     |
 | **Server**        | CDN, compression, fast TTFB, optimized caching                        |
 
----
 
 #### ✨ Happy Coding!
 

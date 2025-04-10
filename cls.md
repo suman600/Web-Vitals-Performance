@@ -53,6 +53,5 @@
 - **Web Vitals Extension**
 - **Google Search Console (CWV report)**
 
----
 
-Let me know if you want similar notes for INP or want to build a clean README section from this!
+#### ✨ Happy Coding!

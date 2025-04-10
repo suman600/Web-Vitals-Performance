@@ -60,7 +60,3 @@ It measures the time between a user's **first interaction** with a page (like cl
 - **Chrome DevTools → Performance Tab**
 - **Web Vitals Chrome Extension**
 - **Google Analytics 4** (for field data)
-
----
-
-Let me know when you're ready for the **README.md version** with this included, or if you want the same format for **CLS**, **INP**, etc.

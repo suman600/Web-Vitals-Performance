@@ -33,6 +33,4 @@
 - Lazy-load below-the-fold content
 - Use a fast CDN
 
----
-
-Let me know if you'd like this version added to your README or want to continue with **TTFB or INP** next!
+#### ✨ Happy Coding!
